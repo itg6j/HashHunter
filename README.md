@@ -1,6 +1,7 @@
 🔐 HashHunter
 
 HashForge is a powerful and flexible Python tool for hashing, cracking hashes, and verifying file integrity.
+
 Built for cybersecurity learners and ethical hackers.
 
 ⚡ Features
@@ -21,18 +22,19 @@ Built for cybersecurity learners and ethical hackers.
 
 🛠️ Installation
 git clone https://github.com/itg6j/HashHunter.git
-cd saif
+
+cd saif1
+
 pip install colorama
+
 ▶️ Usage
-python main.py
-📸 Example
-[+] Enter hash: 5f4dcc3b5aa765d61d8327deb882cf99
-[+] Trying 1: 123456
-[+] Trying 2: password
-[+] This is hash: password
+
+python blue.py
+
 ⚠️ Disclaimer
 
 This tool is intended for educational purposes only.
+
 Do NOT use it on systems or data without permission.
 
 👨‍💻 Author
