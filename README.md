@@ -20,7 +20,7 @@ Built for cybersecurity learners and ethical hackers.
 ⏱️ Execution time tracking
 
 🛠️ Installation
-git clone https://github.com/your-username/hashforge.git
+git clone https://github.com/itg6j/HashHunter.git
 cd saif
 pip install colorama
 ▶️ Usage
