@@ -1,4 +1,4 @@
-🔐 HashForge
+🔐 HashHunter
 
 HashForge is a powerful and flexible Python tool for hashing, cracking hashes, and verifying file integrity.
 Built for cybersecurity learners and ethical hackers.
